@@ -426,28 +426,28 @@ Group :   1
   << Read Hmn_R.data successfully
   
  >> Start of calculating bulk band
- Time cost for BulkBand is about            1.899 s
+ Time cost for BulkBand is about            1.976 s
  << End of calculating bulk band
   
  >> Start of calculating the slab band structure
  Slabek: ik        1  /       122 time left       0.0s time elapsed:        0.0s
- Slabek: ik        9  /       122 time left       0.3s time elapsed:        0.0s
- Slabek: ik       17  /       122 time left       0.3s time elapsed:        0.0s
- Slabek: ik       25  /       122 time left       0.2s time elapsed:        0.1s
+ Slabek: ik        9  /       122 time left       0.4s time elapsed:        0.0s
+ Slabek: ik       17  /       122 time left       0.3s time elapsed:        0.1s
+ Slabek: ik       25  /       122 time left       0.3s time elapsed:        0.1s
  Slabek: ik       33  /       122 time left       0.2s time elapsed:        0.1s
  Slabek: ik       41  /       122 time left       0.2s time elapsed:        0.1s
  Slabek: ik       49  /       122 time left       0.2s time elapsed:        0.1s
- Slabek: ik       57  /       122 time left       0.1s time elapsed:        0.1s
- Slabek: ik       65  /       122 time left       0.1s time elapsed:        0.2s
- Slabek: ik       73  /       122 time left       0.1s time elapsed:        0.2s
+ Slabek: ik       57  /       122 time left       0.2s time elapsed:        0.2s
+ Slabek: ik       65  /       122 time left       0.2s time elapsed:        0.2s
+ Slabek: ik       73  /       122 time left       0.2s time elapsed:        0.2s
  Slabek: ik       81  /       122 time left       0.1s time elapsed:        0.2s
- Slabek: ik       89  /       122 time left       0.1s time elapsed:        0.2s
- Slabek: ik       97  /       122 time left       0.1s time elapsed:        0.2s
+ Slabek: ik       89  /       122 time left       0.1s time elapsed:        0.3s
+ Slabek: ik       97  /       122 time left       0.1s time elapsed:        0.3s
  Slabek: ik      105  /       122 time left       0.1s time elapsed:        0.3s
  Slabek: ik      113  /       122 time left       0.0s time elapsed:        0.3s
- Slabek: ik      121  /       122 time left       0.0s time elapsed:        0.3s
+ Slabek: ik      121  /       122 time left       0.0s time elapsed:        0.4s
  calculate energy band  done
- Time cost for SlabBand_calc is about            2.860 s
+ Time cost for SlabBand_calc is about            2.654 s
  << End of calculating the slab band structure
   
  >> Start of calculating Z2 number for the bulk
@@ -1016,39 +1016,39 @@ Group :   1
  k2=0.5, k1-k3 plane:            0
  k3=0.0, k1-k2 plane:            1
  k3=0.5, k1-k2 plane:            0
- Time cost for Z2_calc is about           10.761 s
+ Time cost for Z2_calc is about           10.606 s
  << End of calculating Z2 number for the bulk
   
  >> Start of calculating the surface state
  SurfaceSS, ik           1 Nk         122 time left  0.000000000000000E+000  s
- SurfaceSS, ik          21 Nk         122 time left   3.58549999981187       s
- SurfaceSS, ik          41 Nk         122 time left   2.95650000016030       s
- SurfaceSS, ik          61 Nk         122 time left   2.53150000040478       s
- SurfaceSS, ik          81 Nk         122 time left   1.74249999983294       s
- SurfaceSS, ik         101 Nk         122 time left   1.02899999998044       s
- SurfaceSS, ik         121 Nk         122 time left  4.299999999057036E-002  s
+ SurfaceSS, ik          21 Nk         122 time left   3.78750000058790       s
+ SurfaceSS, ik          41 Nk         122 time left   3.19950000109384       s
+ SurfaceSS, ik          61 Nk         122 time left   2.71450000022014       s
+ SurfaceSS, ik          81 Nk         122 time left   2.02949999974226       s
+ SurfaceSS, ik         101 Nk         122 time left  0.997500000012224       s
+ SurfaceSS, ik         121 Nk         122 time left  3.949999999895226E-002  s
  ndim          30
  knv2,omeganum,eta         122         201  1.641791044776119E-002
  calculate density of state successfully
- Time cost for SlabSS_calc is about           18.847 s
+ Time cost for SlabSS_calc is about           19.237 s
  End of calculating the surface state
   
  >> Start of calculating the surface arc
  Arc, ik            1 Nk        3721 time left  0.000000000000000E+000  s
- Arc, ik          201 Nk        3721 time left   1.75999998115003       s
- Arc, ik          401 Nk        3721 time left   1.65999998222105       s
- Arc, ik          601 Nk        3721 time left   1.56000002869405       s
+ Arc, ik          201 Nk        3721 time left   1.76000003237277       s
+ Arc, ik          401 Nk        3721 time left   3.32000001275446       s
+ Arc, ik          601 Nk        3721 time left   1.55999998329207       s
  Arc, ik          801 Nk        3721 time left   1.46000002685469       s
- Arc, ik         1001 Nk        3721 time left   2.71999997086823       s
- Arc, ik         1201 Nk        3721 time left   1.25999998650514       s
+ Arc, ik         1001 Nk        3721 time left   1.35999998543411       s
+ Arc, ik         1201 Nk        3721 time left   1.26000002317596       s
  Arc, ik         1401 Nk        3721 time left   1.15999998757616       s
  Arc, ik         1601 Nk        3721 time left   1.05999998864718       s
  Arc, ik         1801 Nk        3721 time left  0.959999989718199       s
  Arc, ik         2001 Nk        3721 time left  0.859999990789220       s
- Arc, ik         2201 Nk        3721 time left  0.760000013979152       s
- Arc, ik         2401 Nk        3721 time left   1.31999998586252       s
- Arc, ik         2601 Nk        3721 time left  0.560000010300428       s
- Arc, ik         2801 Nk        3721 time left  0.459999995073304       s
+ Arc, ik         2201 Nk        3721 time left   1.52000000583939       s
+ Arc, ik         2401 Nk        3721 time left  0.659999992931262       s
+ Arc, ik         2601 Nk        3721 time left  0.559999994002283       s
+ Arc, ik         2801 Nk        3721 time left  0.460000008461066       s
  Arc, ik         3001 Nk        3721 time left  0.359999996144325       s
  Arc, ik         3201 Nk        3721 time left  0.260000004782341       s
  Arc, ik         3401 Nk        3721 time left  0.159999998286366       s
@@ -1057,24 +1057,24 @@ Group :   1
  Nk1,Nk2,eta:           61          61  3.674932385837766E-005
  Calculated surface density of state successfully
  calculate spintexture successfully
- Time cost for SlabArc is about            3.483 s
+ Time cost for SlabArc is about            3.099 s
  End of calculating the surface arc
   
  >> Start of calculating the spin texture for surface
  Arc, ik            1 Nk        3721 time left  0.000000000000000E+000  s
- Arc, ik          201 Nk        3721 time left   1.75999998115003       s
- Arc, ik          401 Nk        3721 time left   3.31999996444210       s
- Arc, ik          601 Nk        3721 time left   1.56000002869405       s
+ Arc, ik          201 Nk        3721 time left  0.000000000000000E+000  s
+ Arc, ik          401 Nk        3721 time left   1.65999998222105       s
+ Arc, ik          601 Nk        3721 time left   1.55999998329207       s
  Arc, ik          801 Nk        3721 time left   1.46000002685469       s
- Arc, ik         1001 Nk        3721 time left   1.36000002501532       s
- Arc, ik         1201 Nk        3721 time left   1.25999998650514       s
- Arc, ik         1401 Nk        3721 time left   1.15999998757616       s
- Arc, ik         1601 Nk        3721 time left   1.05999998864718       s
+ Arc, ik         1001 Nk        3721 time left   1.35999998543411       s
+ Arc, ik         1201 Nk        3721 time left   2.52000000968110       s
+ Arc, ik         1401 Nk        3721 time left   1.16000002133660       s
+ Arc, ik         1601 Nk        3721 time left   2.12000000814442       s
  Arc, ik         1801 Nk        3721 time left  0.959999989718199       s
- Arc, ik         2001 Nk        3721 time left  0.859999990789220       s
+ Arc, ik         2001 Nk        3721 time left  0.860000015818514       s
  Arc, ik         2201 Nk        3721 time left  0.759999991860241       s
  Arc, ik         2401 Nk        3721 time left  0.659999992931262       s
- Arc, ik         2601 Nk        3721 time left  0.559999994002283       s
+ Arc, ik         2601 Nk        3721 time left  0.560000010300428       s
  Arc, ik         2801 Nk        3721 time left  0.460000008461066       s
  Arc, ik         3001 Nk        3721 time left  0.359999996144325       s
  Arc, ik         3201 Nk        3721 time left  0.259999997215346       s
@@ -1084,10 +1084,10 @@ Group :   1
  Nk1,Nk2,eta:           61          61  3.674932385837766E-005
  Calculated surface density of state successfully
  calculate spintexture successfully
- Time cost for SlabSpintexture is about            3.690 s
+ Time cost for SlabSpintexture is about            3.261 s
  End of calculating the spin texture for surface
   
- Time cost for whole program is about           42.537 s
+ Time cost for whole program is about           41.885 s
   
   
   =======================================================================
